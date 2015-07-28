@@ -1,0 +1,45 @@
+
+body, html
+{
+	background-color: #EDEDED !important;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.intro
+{
+    text-align: center;
+    padding: 5%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.intro h1
+{
+	font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+}
+
+.intro h2{
+
+    font-weight: 100;
+    font-size: 42px;
+}
+.intro h5
+{
+	padding: 10px;
+	display: inline-block;
+	font-size: 1.2rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav_menu_item{
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+
