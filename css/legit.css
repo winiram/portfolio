@@ -26,10 +26,11 @@ body, html
 }
 .intro h5
 {
-	padding: 10px;
+	padding: 15px;
 	display: inline-block;
 	font-size: 1.2rem;
     font-family: 'Roboto', sans-serif;
+    font-weight: 300;
 }
 
 .nav_menu_item{
@@ -40,6 +41,77 @@ body, html
     padding-right: 10px;
 }
 
+.whatis_heading{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    margin: 1rem;
+    font-weight: 200;
+    padding: 10px;
+}
 
+hr
+{
+    width: 10%;
+    color: dodgerblue; !important
+    line-height: normal;
+}
+
+.thintext{
+    font-weight: 300;
+    text-align: center;
+    word-wrap: break-word;
+    padding: 10px;
+    height: 10%;
+}
+
+
+.list_items {
+    list-style: none;
+    text-align: center;
+    font-weight: 400;
+    padding: 5px;
+    font-size: 18px;
+    text-emphasis-style:filled;
+    
+}
+.card_heading{  
+    font-family: 'Roboto', sans-serif;  
+    font-weight: 200;
+    font-size: 24px;
+    text-align: center;
+}
+
+.whatis_list_item{
+    text-align: center;
+    padding: 10px;
+}
+
+#profile_img
+{
+    width: 11%;
+    height: 20%;
+}
+ 
+.what_I_do_item{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 2em;
+}
+
+.what_I_do_heading {
+    font-weight: 200;
+}
+
+.what_I_do_para {
+    font-weight: 100;
+}
+
+.what_I_do{
+    border: 1px;
+    border-color: grey;
+    
+}
 
 
